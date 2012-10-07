@@ -13,4 +13,5 @@ Simple script that asks you what you want to look for. If you have marked anythi
 Tools
 =====
 http://www.subsimple.com/bookmarklets/jsbuilder.htm  
-http://jsbeautifier.org/
+http://jsbeautifier.org/  
+http://daringfireball.net/2007/03/javascript_bookmarklet_builder
